@@ -9,7 +9,7 @@ body{
   display: grid;
   grid-auto-rows: minmax(150px, auto);
   /* grid-template-columns:  */
-  height:100vh;
+  height: 90vh;
   color: rgba(0, 0, 0, 1);
   justify-content: center;
   grid-gap: 1em;
