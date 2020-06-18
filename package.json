@@ -1,7 +1,7 @@
 {
-  "name": "watherjournalapp",
+  "name": "MMFENDWeatherApp",
   "version": "1.0.0",
-  "description": "Udacity FEND weather journal app project 2",
+  "description": "Udacity FEND weather journal app Project",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ashehouse/Udacity-FEND-Weather-Journal-App.git"
+    "url": "git+https://github.com/MonkeyMomma/MMFENDWeatherApp.git"
   },
-  "author": "Jody Dixon",
-  "license": "MIT",
+  "author": "Karin Davis",
+  "license": "M",
   "bugs": {
-    "url": "https://github.com/ashehouse/Udacity-FEND-Weather-Journal-App/issues"
+    "url": "https://github.com/MonkeyMomma/MMFENDWeatherApp.git"
   },
-  "homepage": "https://github.com/ashehouse/Udacity-FEND-Weather-Journal-App#readme",
+  "homepage": "https://github.com/MonkeyMomma/MMFENDWeatherApp.git",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
