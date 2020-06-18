@@ -8,7 +8,7 @@ const url = "https://api.openweathermap.org/data/2.5/weather?zip=";
 const submitBtn = document.getElementById('generate');
 
 
-// 1. Personal API Key for OpenWeatherMap API
+// MMC API Key for OpenWeatherMap API
 const apiKey = "&appid=1585769850871901c06771a39ebcf7a0";
 
 
