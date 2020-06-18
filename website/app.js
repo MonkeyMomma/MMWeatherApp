@@ -9,7 +9,7 @@ const submitBtn = document.getElementById('generate');
 
 
 // 1. Personal API Key for OpenWeatherMap API
-const apiKey = "&appid=ee95c3022f1d9a663f173d79e3606653";
+const apiKey = "&appid=1585769850871901c06771a39ebcf7a0";
 
 
 // Create a new date instance dynamically with JS
@@ -29,7 +29,7 @@ const generateUserData = () => {
         // .finally(getProjectData().then(data => console.log(data)));
         .then(getProjectData());
     })
-    
+
 };
 
 // Event listener to add function to existing HTML DOM element
@@ -50,7 +50,7 @@ const getWeather = async (apiUrl) => {
 /* Function to POST data */
 const postData = async (url ='', data) => {
     let response = await fetch(url, {
-        method: 'POST', 
+        method: 'POST',
         credentials: 'same-origin',
         headers: {
           'Content-Type': 'application/json',
